@@ -67,7 +67,7 @@ res.render("login");
 });
 
 app.get("/register",function(req,res){
-res.render("register");
+res.render("register1");
 });
 
 app.get("/secrets",function(req,res){
